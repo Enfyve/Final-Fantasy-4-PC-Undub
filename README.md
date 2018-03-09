@@ -6,4 +6,4 @@
 
 1. Navigate to your `EXTRACTED_DATA\files\SOUND\VOICE` directory.
 2. Backup all files in the folder
-3. Extract `VOICE.zip` *(698 out of 704 file should be replaced be replaced)*
+3. Extract `VOICE.zip` *(698 out of 704 file should be replaced)*
